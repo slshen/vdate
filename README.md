@@ -1,5 +1,6 @@
 Vernacular Date and Time
 ====
+[![Build Status](https://travis-ci.com/slshen/vdate.svg?branch=master)](https://travis-ci.com/slshen/vdate)
 
 The `java.time` package has classes with non-obvious names and methods
 in non-obvious places.  These small wrapper classes remedy that.
